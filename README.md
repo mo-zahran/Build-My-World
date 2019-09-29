@@ -2,6 +2,7 @@
 First project in Robotics Software Engineer nanodegree
 
 # Directory Structure
+```
 Build-My-World                          # Build My World Project 
     ├── model                          # Model files 
     │   ├── Building
@@ -15,3 +16,4 @@ Build-My-World                          # Build My World Project
     ├── world                          # Gazebo main World containing models 
     │   ├── UdacityOffice.world
     ├── CMakeLists.txt                 # Link libraries 
+```
