@@ -1,7 +1,7 @@
 # Build-My-World
 First project in Robotics Software Engineer nanodegree
 
-# Directory Structure
+## Directory Structure
 ```
 Build-My-World                          # Build My World Project 
     ├── model                          # Model files 
